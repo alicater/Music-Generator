@@ -1,2 +1,2 @@
 # Music-Generator
-fun post tonal music generator
+A fun little aleatoric music generator (chance music). Learned about this type of music in my post tonal music theory course and wanted to create a chance music generation script. It'll ask for how long you want the piece to be, write a plain integer as the number of seconds or add "minute"/"second" after the integor to specify. The script will then output a midi file that you can open with any program that will read/play midi. I reccomend musescore or another, as it'll also show the score! 
